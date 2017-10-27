@@ -6,7 +6,7 @@
 #### 6
 #### 7 there's gonna be a merge conflict
 #### 8
-#### 9 GitHub is awesome.
+#### 9 GitHub is awesome..
 #### 10
 #### 11
 #### 12
